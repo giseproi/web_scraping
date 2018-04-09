@@ -13,9 +13,3 @@
  ## For Windows
 python3 manage.py runserver
  ```
- 
-sitio el cual se esta realizando scraping
-
-https://xkcd.com/
-
-realizado con el entorno virtual env
