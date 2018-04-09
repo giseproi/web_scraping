@@ -2,8 +2,7 @@
 
 ## Buid Setup django
 
-In the folder locallibrary/locallibrary is the django server
- ``` bash
+``` bash
  #install dependencies
  sudo pip3 install -r requirements.txt
 
@@ -14,7 +13,7 @@ In the folder locallibrary/locallibrary is the django server
  ## For Windows
 python3 manage.py runserver
  ```
-
+ 
 sitio el cual se esta realizando scraping
 
 https://xkcd.com/
